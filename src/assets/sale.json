@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Jan", "Sale": 4000, "amt": 2400
+  },
+  {
+    "name": "Feb", "Sale": 2000, "amt": 2290
+  },
+  {
+    "name": "Mar", "Sale": 2780, "amt": 2000
+  },
+  {
+    "name": "Apr", "Sale": 1890, "amt": 2181
+  },
+  {
+    "name": "May", "Sale": 2390, "amt": 2500
+  },
+  {
+    "name": "Jun", "Sale": 3490, "amt": 2100
+  }
+]

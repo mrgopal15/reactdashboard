@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Cena", "email": "cena@email.com", "age": 24, "company": "xyz LLC", "phone": "+2234123213"
+  },
+  {
+    "name": "John", "email": "john@email.com", "age": 43, "company": "abc LLC", "phone": "+422342"
+  },
+  {
+    "name": "Luke", "email": "luke@email.com", "age": 12, "company": "deg LLC", "phone": "+3452342"
+  },
+  {
+    "name": "Lena", "email": "lena@email.com", "age": 55, "company": "hgf LLC", "phone": "+743523423"
+  },
+  {
+    "name": "Kevin", "email": "kevin@email.com", "age": 41, "company": "srt LLC", "phone": "+565234234"
+  },
+  {
+    "name": "Mathew", "email": "mat@email.com", "age": 34, "company": "vdn LLC", "phone": "+46512423"
+  }
+]
